@@ -27,7 +27,7 @@ Since you'll need to tweak the program to run with your own WiFi credentials, yo
 - [ESP Async WebServer](https://github.com/me-no-dev/ESPAsyncWebServer)
 - [Async TCP Library](https://github.com/me-no-dev/AsyncTCP)
 
-You'll also have to the [WiFi credentials]().
+You'll also have to the [WiFi credentials](https://github.com/HakCat-Tech/Nugget-SSDP/blob/main/Nugget-SSDP/Nugget-SSDP.ino#L21-L22).
 
 
 [You can check out our guide here for how to install the libraries in Arduino / flash code to your board!](https://www.youtube.com/watch?v=YPX2nlr-ySU)
