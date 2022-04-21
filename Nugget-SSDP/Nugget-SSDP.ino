@@ -119,7 +119,7 @@ void setup() {
         SSDP.setHTTPPort(80);
         //set device name
         //Null string if not set
-        SSDP.setName("Toilet Came");
+        SSDP.setName("Toilet Cam");
         //set Serial Number
         //Null string if not set
         SSDP.setSerialNumber("001788102201");
