@@ -1,6 +1,13 @@
 # WiFi Nugget SSDP Phising Demo
 This repository contains proof-of-concept code that uses an ESP32-S2 based [WiFi Nugget](https://wifinugget.com) to phish for user credentials over WiFi, by appearing as an inconspicuous network attached camera.  [You can watch the full demo here (coming soon)!](https://youtube.com/Hak5)
 
+<p align="center">
+  <img src="img/Nugget-SSDP.png" width="700px">
+  <br>
+  <b>Nugget SSDP Phisher</b>
+  <br>
+</p>
+
 ## What is SSDP?
 [SSDP](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) is a protocol that allows devices to broadcast their presence on a local network, allowing for easy discovery and management.  [Network attached storage devices (NAS)](https://en.wikipedia.org/wiki/Network-attached_storage), smart-home cameras, printers and other network-connected devices utilize this protocol to make themselves easily found and configurable. 
 
