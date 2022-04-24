@@ -19,13 +19,6 @@ This code serves as a simple POC of how SSDP can be used in an ["evil twin"](htt
 ## How do I try it?
 All you need is an [ESP32 WiFi microcontroller]()!  If you want to support our project and follow along with cute cat graphics, you can also buy a [WiFi Nugget](https://wifinugget.com).
 
-<p align="center">
-  <img src="img/Nugget-Invader.png" width="700px">
-  <br>
-  <b>WiFi Nugget</b>
-  <br>
-</p>
-
 Since you'll need to tweak the program to run with your own WiFi credentials, you'll have to compile the Arduino program from scratch.  To do so, you'll need to following libraries:
 ### Dependencies
 - [SH1106 Screen Library](https://github.com/ThingPulse/esp8266-oled-ssd1306)
